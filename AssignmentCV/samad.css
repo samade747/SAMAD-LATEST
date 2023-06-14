@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 3;
+    color: white;
+
+}
+
+body{
+      background-image: url(./Assests/peakpx.jpg);
+      background-size: cover;
+      background-position: center;
+      box-sizing: border-box;
+      font-family: sans-serif;      
+
+}
+.class_header
+{
+  background: rgb(0,100,0);
+  text-align: center;
+  display: inline-flex;
+}
+
+.nav
+{ 
+  background: rgb(180, 192, 180);
+  text-align: center;
+
+
+}
+.nav ul
+{ 
+  display: inline-flex;
+  list-style: none;
+  color: #fff
+  
+
+
+}
